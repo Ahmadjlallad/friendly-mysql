@@ -78,7 +78,7 @@ VALUES (
         176
     ),
     (
-        "Where I'm Calling From: Selected Stories",
+        'Where I\'m Calling From: Selected Stories',
         'Raymond',
         'Carver',
         1989,
