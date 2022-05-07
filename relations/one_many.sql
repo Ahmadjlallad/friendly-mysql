@@ -32,7 +32,7 @@ VALUES ('2016/02/10', 99.99, 1),
        ('2014/12/12', 800.67, 2),
        ('2015/01/03', 12.50, 2),
        ('1999/04/11', 450.25, 5);
-# test for false fk
+# sec for false fk
 INSERT INTO orders (order_date, amount, customer_id)
 VALUES ('2016/06/06', 33.67, 98);
 
