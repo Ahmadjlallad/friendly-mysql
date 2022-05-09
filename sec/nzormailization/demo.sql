@@ -28,3 +28,4 @@ alter table website_page_view_normalized
     add primary key (website_pageview_id),
     add foreign key (website_session_id) references website_sessions_normalized (website_session_id);
 drop table website_page_view_normalized;
+# normalization_assessment
